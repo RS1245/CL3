@@ -1,0 +1,10 @@
+Title: Design a distributed application using RPC for remote computation where client submits
+an integer value to the server and server calculates factorial and returns the result to the client 
+program.
+
+Title: Design a distributed application using MapReduce under Hadoop for: a) Character 
+counting in a given text file. b) Counting no. of occurrences of every word in a given text 
+file.
+
+Title: Write code to simulate requests coming from clients and distribute them among the 
+servers using the load balancing algorithms.
