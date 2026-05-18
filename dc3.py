@@ -1,3 +1,4 @@
+type input.txt | python mapper_word.py | sort | python reducer_word.py
 #mapper_ch.py
 import sys
 
